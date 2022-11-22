@@ -1,4 +1,4 @@
-<img src="./res/icon.png" align="left" width="130px" style="padding: 10px; padding-right: 20px">
+<img src="./res/icon.png" align="left" width="200px" style="padding: 10px; padding-right: 20px">
 <h1>Trident palette</h1>
 <p>My simple 24-color palette</p>
 
