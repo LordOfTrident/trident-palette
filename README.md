@@ -18,7 +18,6 @@
 ## Table of contents
 * [Introduction](#introduction)
 * [Showcase](#showcase)
-* [Files](#files)
 * [Usage examples](#usage-examples)
 
 ## Introduction
