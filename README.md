@@ -3,9 +3,6 @@
 <p>My simple 24-color palette</p>
 
 <p>
-	<a href="./LICENSE">
-		<img alt="License" src="https://img.shields.io/badge/license-GPL-blue?color=7aca00"/>
-	</a>
 	<a href="https://github.com/LordOfTrident/trident-palette/issues">
 		<img alt="Issues" src="https://img.shields.io/github/issues/LordOfTrident/trident-palette?color=0088ff"/>
 	</a>
